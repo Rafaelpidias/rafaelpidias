@@ -1,4 +1,4 @@
-- 👋 Hi,There!
+- 👋 Olá,Pessoal!
    Eu sou Rafael Pisani Dias, estou aprendendo programação e realizando alguns projetos com as tecnologias:
   <br>
   <br>
@@ -24,7 +24,8 @@
 
 ![Rafael stats](https://github-readme-stats.vercel.app/api?username=rafaelpidias&show_icons=true&theme=dracula)
 
-![Rafael](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpidias&layout=compact)
+![Rafael](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpidias&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117)
+
  
  
  
